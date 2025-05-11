@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-v2/static/css/main.4147797a.css",
-    "main.js": "/portfolio-v2/static/js/main.047f9e5d.js",
-    "static/media/movie-app.png": "/portfolio-v2/static/media/movie-app.010a02b2e617e73f76a3.png",
+    "main.css": "/portfolio-v2/static/css/main.ceec5286.css",
+    "main.js": "/portfolio-v2/static/js/main.6ba794de.js",
     "static/media/bakeora.png": "/portfolio-v2/static/media/bakeora.c37e10d8b8818828a5b6.png",
     "static/media/Hoobank.png": "/portfolio-v2/static/media/Hoobank.9f185b10d4598b19bab3.png",
     "static/media/Screenshot 2025-05-05 211147.png": "/portfolio-v2/static/media/Screenshot 2025-05-05 211147.346c1f36bd8b43d9b29a.png",
@@ -16,11 +15,11 @@
     "static/media/Staatliches-Regular.ttf": "/portfolio-v2/static/media/Staatliches-Regular.134482285baed3198bb5.ttf",
     "static/media/Marcellus-Regular.ttf": "/portfolio-v2/static/media/Marcellus-Regular.379c0e43574baa7d41e9.ttf",
     "index.html": "/portfolio-v2/index.html",
-    "main.4147797a.css.map": "/portfolio-v2/static/css/main.4147797a.css.map",
-    "main.047f9e5d.js.map": "/portfolio-v2/static/js/main.047f9e5d.js.map"
+    "main.ceec5286.css.map": "/portfolio-v2/static/css/main.ceec5286.css.map",
+    "main.6ba794de.js.map": "/portfolio-v2/static/js/main.6ba794de.js.map"
   },
   "entrypoints": [
-    "static/css/main.4147797a.css",
-    "static/js/main.047f9e5d.js"
+    "static/css/main.ceec5286.css",
+    "static/js/main.6ba794de.js"
   ]
 }
